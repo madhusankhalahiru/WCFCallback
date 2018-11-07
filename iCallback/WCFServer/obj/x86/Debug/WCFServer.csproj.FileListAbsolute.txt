@@ -1,0 +1,11 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\bin\Debug\WCFServer.exe.config
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\bin\Debug\WCFServer.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\bin\Debug\WCFServer.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.Form1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFServer\obj\x86\Debug\WCFServer.pdb

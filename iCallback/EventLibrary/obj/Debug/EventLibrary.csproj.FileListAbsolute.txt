@@ -1,0 +1,7 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\bin\Debug\EventLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\bin\Debug\EventLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\obj\Debug\EventLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\obj\Debug\EventLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\EventLibrary\obj\Debug\EventLibrary.pdb

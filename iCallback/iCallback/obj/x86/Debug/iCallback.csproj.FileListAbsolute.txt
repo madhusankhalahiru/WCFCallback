@@ -1,0 +1,15 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\iCallback.exe.config
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\iCallback.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\iCallback.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\EventLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\WCFProxy.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\EventLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\WCFProxy.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.Form1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\iCallback\obj\x86\Debug\iCallback.pdb

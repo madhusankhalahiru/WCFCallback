@@ -1,0 +1,9 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\WCFProxy.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\WCFProxy.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\EventLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\EventLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\obj\Debug\WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\obj\Debug\WCFProxy.dll
+C:\Users\Dell\documents\visual studio 2010\Projects\iCallback\WCFProxy\obj\Debug\WCFProxy.pdb
